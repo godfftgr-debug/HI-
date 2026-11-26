@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TPMN BANK</string>
+    <string name="brand_tagline">TRUST • PROSPERITY • MODERN NETWORK</string>
+    <string name="auth_welcome_title">Next-Gen AI Banking</string>
+    <string name="auth_welcome_subtitle">Zero OTP friction. Instant access with email or username.</string>
+    <string name="auth_identifier_label">Email or Username</string>
+    <string name="auth_password_label">Password</string>
+    <string name="auth_fullname_label">Full Name</string>
+    <string name="auth_sign_in">Sign In</string>
+    <string name="auth_create_account">Create Account</string>
+    <string name="auth_toggle_register">New to TPMN? Create instant account</string>
+    <string name="auth_toggle_login">Already have an account? Sign in</string>
+    <string name="nav_home">Vault</string>
+    <string name="nav_ai">AI Banker</string>
+    <string name="nav_admin">Control Hub</string>
+    <string name="ai_firebase_notice">Sample AI Mode • Connect Firebase AI Logic for live Gemini inference</string>
+    <string name="ai_input_placeholder">Ask TPMN AI (e.g. Send $120 to Sarah)…</string>
+    <string name="cd_brand_logo">TPMN BANK emblem</string>
+    <string name="cd_voice_mic">Speak banking command</string>
+    <string name="cd_send_command">Send AI command</string>
+    <string name="cd_sign_out">Sign out</string>
+    <string name="cd_toggle_balance">Toggle balance visibility</string>
+</resources>

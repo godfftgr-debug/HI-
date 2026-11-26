@@ -1,0 +1,6 @@
+{
+  "name": "TPMN BANK",
+  "description": "AI-first mobile banking app for TPMN BANK (Trust • Prosperity • Modern Network) featuring Gemini-powered conversational & voice banking and an Admin AI Control Hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

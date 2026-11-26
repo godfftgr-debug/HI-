@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="tpmn_navy_obsidian">#FF061121</color>
+    <color name="tpmn_navy_surface">#FF0B1B32</color>
+    <color name="tpmn_gold_primary">#FFE2B94B</color>
+    <color name="tpmn_emerald_shadow">#FF0F5C4D</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
